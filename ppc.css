@@ -1,0 +1,50 @@
+
+textarea{
+    width: 100px;
+    height: 22px;
+}
+header{
+    background-color: rgb(238, 247, 248);
+    height: 50px;
+    border: 10px ,solid, white;
+border-radius: 15px;
+width: 99%;
+    
+}
+header h2{
+    margin: 20px;
+    line-height: 50px;
+
+}
+textarea{
+    width: 98%;
+    min-height: 280px;
+    border-radius: 16px;
+    border: 2px solid rgb(131, 131, 131);
+margin-top: 10px;
+}
+#button1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#button1 button{
+    width: 47%;
+    border-radius: 12px;
+    border: 0px;
+padding: 10px;
+}
+#remove{
+    background-color: rgb(255, 24, 24);
+    color: rgb(255, 255, 255);
+}
+#play{
+    background-color: rgba(39, 39, 39, 0.87);
+    color: rgb(255, 255, 255);
+}
+#Result{
+    padding: 10px;
+    border-bottom: 3px solid rgb(131, 53, 53);
+    margin: 8px 0px;
+    font-weight: bold;
+    text-align: center;
+}
